@@ -1,0 +1,63 @@
+body {
+  background-color: #F2F1ED;
+}
+
+#heading {
+  padding-bottom: 70px;
+}
+
+#shyama {
+  float: left;
+  font-size: 20px;
+}
+
+#wrap {
+  width: 1200px;
+  clear: both;
+}
+
+
+#topcol1 {
+  width: 775px;
+  float: left;
+}
+
+#lefttext1 {
+  font-size: 18px;
+}
+
+#lefttext2 {
+  font-size: 14px;
+}
+
+#topcol2 {
+  width: 375px;
+  float: right;
+}
+
+#photowrapper {
+  padding-top: 50px;
+  width: 1200px;
+  clear: both;
+}
+
+
+img {
+  float: left;
+  width: 398px;
+}
+
+ul {
+  list-style-type: none;
+  float: right;
+}
+
+li {
+  font-size: 20px;
+  display: inline;
+  padding-left: 20px;
+}
+
+.redtext {
+  color: red;
+}
